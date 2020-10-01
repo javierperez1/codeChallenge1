@@ -7,9 +7,9 @@ This program finds the first, 7 (or n) digit, prime, palindromic number in the d
 Written in Python3 v3.8.1
 
 To run the code open up a terminal and enter:
-'''
+,,,
 python3 code.py
-'''
+,,,
 
 The "1-Million-Digits-of-Pi-π.txt" text file was obtained from the following link:
 

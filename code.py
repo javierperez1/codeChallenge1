@@ -17,7 +17,7 @@ def main():
     #loop breaks if length of pi is exceeded or if the answer is found
     while((i < (len(pi_string) - num_of_digits)) and (found_answer == False)):
 
-        #substring of size num_of_digits, based on pos i
+        #substring of size num_of_digits, based on i
         pi_substring = pi_string[i : (i + num_of_digits)]
 
         #if a substring is palindromic and a prime number, ans is found
