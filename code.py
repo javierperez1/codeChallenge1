@@ -2,9 +2,6 @@
 # This program finds the first, 7 (or n) digit, prime, palindromic number in the digits of Pi
 # Written in Python3 v3.8.1
 
-#https://stuff.mit.edu/afs/sipb/contrib/pi/pi-billion.txt
-#https://www.damienelliott.com/wp-content/uploads/2020/07/1-Million-Digits-of-Pi-π.txt
-
 
 def main():
     #read in pi as a string
